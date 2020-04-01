@@ -1,52 +1,187 @@
 ---
 # yamllint disable rule:line-length
 name: Chitrala
-bio: 'A successful clan residing in the southern part of the indian sub-continent.'
-image: images/placeholder.png
+bio: 'A successful clan residing in the southern part of the Indian sub-continent.'
 children:
-  - name: Sadanandan
+  - name: Gopaiah
     gender: male
-    image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aion_mosaic_Glyptothek_Munich_W504.jpg/220px-Aion_mosaic_Glyptothek_Munich_W504.jpg
-    bio: 'Hard working man'
     spouse:
-      name: Lalitha Devi
+      name: Rukamma
       gender: female
-      image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aion_mosaic_Glyptothek_Munich_W504.jpg/220px-Aion_mosaic_Glyptothek_Munich_W504.jpg
-      bio: "Uranus was the primal Greek god personifying the sky and one of the Greek primordial deities. Uranus is associated with the Roman god Caelus."
     children:
-      - name: Sujatha Sudam
+      - name: Ramulu
+        gender: male
+        spouse:
+          name: Annamma
+          gender: female
+        children:
+          - name: Padmarao
+            gender: male
+            spouse:
+              name: Narsamma
+              gender: female
+            children:
+              - name: Ramprasad
+                gender: male
+              - name: Shyam
+                gender: male
+              - name: Anita
+                gender: female
+              - name: Sunita
+                gender: female
+          - name: Sadanandam
+            gender: male
+            spouse:
+              name: Lalitha Devi
+              gender: female
+            children:
+              - name: Sujatha Sudam
+                gender: female
+                spouse:
+                  name: Balakrishna Sudam
+                  gender: male
+                children:
+                  - name: Abhinav Sudam
+                    gender: male
+                  - name: Srivatsa Sudam
+                    gender: male
+              - name: Srinivas
+                gender: male
+                spouse:
+                  name: Swapna
+                  gender: female
+                children:
+                  - name: Abhijit
+                    gender: male
+                  - name: Akhil
+                    gender: male
+              - name: Banu Prasad
+                gender: male
+                spouse:
+                  name: Vijeytha
+                  gender: female
+                children:
+                  - name: Akshaj
+                    gender: male
+                  - name: Aditri
+                    gender: female
+              - name: Ajay
+                gender: male
+                spouse:
+                  name: Jyothi
+                  gender: female
+                children:
+                  - name: Abhay
+                    gender: male
+          - name: Gopal
+            gender: male
+            spouse:
+              name: Shyamala
+              gender: female
+            children:
+              - name: Harsha
+                gender: male
+              - name: Vishnu
+                gender: male
+              - name: Krishnaveni
+                gender: female
+          - name: Venu
+            gender: male
+            spouse:
+              name: Vasantha
+              gender: female
+            children:
+              - name: Rakesh
+                gender: male
+              - name: Latha
+                gender: female
+          - name: Dinakar
+            gender: male
+            spouse:
+              name: wife
+              gender: female
+          - name: Ashok
+            gender: male
+            spouse:
+              name: Katya
+              gender: female
+            children:
+              - name: Sofia
+                gender: female
+          - name: Auntakka
+            gender: female
+            spouse:
+              name: Narsiaha
+              gender: male
+            children:
+              - name: Pramela
+                gender: female
+              - name: Raju
+                gender: male
+          - name: Bayakka
+            gender: female
+            spouse:
+              name: Ramakrishna
+              gender: male
+            children:
+              - name: Anuradha
+                gender: female
+              - name: Nani
+                gender: male
+              - name: Sarvesh
+                gender: male
+              - name: Vishwesh
+                gender: male
+          - name: Papakka
+            gender: female
+            spouse:
+              name: Pandu
+              gender: male
+            children:
+              - name: Prashanth
+                gender: male
+              - name: Aditya
+                gender: male
+              - name: Aparna
+                gender: female
+          - name: Sukanyakka
+            gender: female
+            spouse:
+              name: Samrat
+              gender: male
+            children:
+              - name: Archana
+                gender: female
+              - name: Umesh
+                gender: male
+              - name: Viplav
+                gender: male
+          - name: Sathyavathi
+            gender: female
+            spouse:
+              name: Vinod
+              gender: male
+            children:
+              - name: Sheethal
+                gender: female
+              - name: Shilpa
+                gender: female
+              - name: Shivani
+                gender: female
+      - name: Sathyanarayana
+        gender: male
+        spouse:
+          name: Narsamma
+          gender: female
+      - name: Musthapuram Narsamma
         gender: female
         spouse:
-          name: Balakrishna Sudam
+          name: Narayanaswami
           gender: male
-        children:
-          - name: Abhinav Sudam
-          - name: Srivatsa Sudam
-      - name: Srinivas
-        gender: male
+      - name: Gandemma
+        gender: female
         spouse:
-          name: Swapna
-          gender: female
-        children:
-          - name: Abhijit
-          - name: Akhil
-      - name: Banu Prasad
-        gender: male
-        spouse:
-          name: Vijeytha
-          gender: female
-        children:
-          - name: Akshaj
-          - name: Aditri
-      - name: Ajay
-        gender: male
-        spouse:
-          name: Jyothi
-          gender: female
-        children:
-          - name: Abhay
-  - name: Gopal
-  - name: Sukanya
-  - name: Aunt Akka
-  - name: Ashok
+          name: Lakshmaiah
+          gender: male
+
 
